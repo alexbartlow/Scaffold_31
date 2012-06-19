@@ -5,8 +5,4 @@
 // the compiled file.
 //
 //= require jquery
-//= require jquery_ujs
-//= require jquery.ui
-//= require jquery-ui-timepicker-addon
-//= require bootstrap-twipsy.js
 //= require_tree .

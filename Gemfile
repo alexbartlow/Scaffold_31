@@ -20,5 +20,5 @@ end
 
 gem 'jquery-rails'
 gem 'high_voltage'
-
+gem 'hashie'
 
